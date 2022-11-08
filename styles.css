@@ -10,7 +10,13 @@ h1 {
   }
   #my-yellow-paragraph {
     color: yellow;
-  }
- 
+}
+.myDiv {
+    border: 3px outset red;
+    background-color: rgb(24, 46, 46);
+    width: 50%;
+} 
+
+
 
   
